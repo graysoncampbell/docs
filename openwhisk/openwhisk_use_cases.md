@@ -34,7 +34,7 @@ Full web application can be built and run with OpenWhisk. Combining serverless A
 
 One of the things that helps is the option of {{site.data.keyword.openwhisk_short}} CLI *wsk* tool called "--annotation web-export true", which makes the code accessible from a web browser.
 
-Here are few examples on how to use {{site.data.keyword.openwhisk_short}} to buils a web app:
+Here are few examples on how to use {{site.data.keyword.openwhisk_short}} to build a web app:
 - [Web Actions: Serverless Web Apps with OpenWhisk](https://medium.com/openwhisk/web-actions-serverless-web-apps-with-openwhisk-f21db459f9ba).
 - [Build a user-facing {{site.data.keyword.openwhisk_short}} application with Bluemix and Node.js](https://www.ibm.com/developerworks/cloud/library/cl-openwhisk-node-bluemix-user-facing-app/index.html)
 - [Serverless HTTP handlers with OpenWhisk](https://medium.com/openwhisk/serverless-http-handlers-with-openwhisk-90a986cc7cdd)
